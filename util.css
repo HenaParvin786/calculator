@@ -1,0 +1,31 @@
+.text-center{
+    text-align: center;
+    color:transparent;
+    font-size: 40px;
+    font-weight: 900;
+    background-image: url(https://wallpaperaccess.com/full/809873.jpg);
+    background-size:cover;
+    background-position: center;
+    background-clip: text;
+    -webkit-background-clip: text;
+
+  }
+  
+  .bg-red{
+    background: red;
+  }
+  
+  .mx-auto{
+    margin: auto;
+  }
+  
+  .flex{
+    display:flex;
+  } 
+  .flex-col{
+    flex-direction: column;
+  }
+  
+  .items-center{
+    align-items: center;
+  }
